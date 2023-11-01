@@ -12,13 +12,13 @@ These are the endpoints that you should include:
 1. Clone the project
 
 ```
-git clone https://github.com/boydwo/ripio-bank-nestjs.git
+git clone https://github.com/cunhafilipe/compress-string-chalenge.git
 ```
 
 2. Fetch dependencies
 
 ```
-cd ripio-bank-nestjs && npm install
+cd compress-string-chalenge && npm install
 ```
 
 6. Run yarn start dev
